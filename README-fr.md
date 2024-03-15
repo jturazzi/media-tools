@@ -1,5 +1,3 @@
-# 🎞️ Media Tools
-
 <h1 align="center">🎞️ Media Tools</h1>
 <h3 align="center">Cette image Docker fournit un ensemble d'outils pour la conversion et le traitement des médias, visant à résoudre les problèmes de stockage liés aux images et aux vidéos.</h3>
 
