@@ -3,15 +3,6 @@
 <h1 align="center">🎞️ Media Tools</h1>
 <h3 align="center">Cette image Docker fournit un ensemble d'outils pour la conversion et le traitement des médias, visant à résoudre les problèmes de stockage liés aux images et aux vidéos.</h3>
 
-<p align="center">
-  <a href="#outils-inclus">Outils inclus</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#problématique">Problématique</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#fonctionnalités-du-script">Fonctionnalités du script</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#utilisation">Utilisation</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#build">Build</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#licence">Licence</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-</p>
-
 ## Outils inclus
 
 - ffmpeg : Un outil puissant de traitement vidéo et audio.
