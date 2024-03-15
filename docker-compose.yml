@@ -1,0 +1,8 @@
+version: '3.8'
+services:
+  app:
+    image: jturazzi/media-tools
+    container_name: media-tools
+    volumes:
+      - /path/to/media/in:/media/in
+      - /path/to/media/out:/media/out
