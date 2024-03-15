@@ -26,7 +26,7 @@ Pour utiliser cette image Docker, vous devez spécifier un dossier d'entrée con
 
 ### Docker run
 ```bash
-docker run --rm -v /path/to/media/in:/media/in -v /path/to/media/out:/media/out jturazzi/media-tools
+docker run --rm -v /path/to/media/in:/media/in -v /path/to/media/out:/media/out jturazzi/media-tools:latest
 ```
 
 ### Docker compose
@@ -34,7 +34,7 @@ docker run --rm -v /path/to/media/in:/media/in -v /path/to/media/out:/media/out 
 version: '3.8'
 services:
   app:
-    image: jturazzi/media-tools
+    image: jturazzi/media-tools:latest
     container_name: media-tools
     volumes:
       - /path/to/media/in:/media/in

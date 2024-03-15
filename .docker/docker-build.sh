@@ -1,0 +1,1 @@
+docker build -t jturazzi/media-tools:latest .
