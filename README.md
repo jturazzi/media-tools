@@ -49,6 +49,10 @@ docker build -t your_image_name .
 
 Make sure to navigate to the directory containing the Dockerfile before executing this command.
 
+## Contribution
+
+We welcome community contributions. Fork, make changes, submit a pull request.
+
 ## License
 
 This project is licensed under the [MIT](LICENSE) License.
